@@ -24,6 +24,8 @@
 </p>
 
 ### 💎 My projects
-My twitch.tv automation project [<img width="5%" title="Twitch" src="media/logo/twitch.svg"/>](https://twitch.tv) - [link](https://github.com/anavla777/TwitchTests)
+My twitch.tv automation project [<img height="15" title="Twitch" src="media/logo/twitch.svg"/>](https://twitch.tv) - [link](https://github.com/anavla777/TwitchTests)
 
-Wikipedia mobile app automation project [<img width="5%" title="Twitch" src="media/logo/Wikipedia.svg"/>](https://wikipedia.org) - [link](https://github.com/anavla777/WikipediaMobile)
+Wikipedia mobile app automation project [<img  height="15" title="Twitch" src="media/logo/Wikipedia.svg"/>](https://wikipedia.org) - [link](https://github.com/anavla777/WikipediaMobile)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anavla777&show_icons=true&bg_color=00000000)
